@@ -1,0 +1,77 @@
+ /* -------------------------------------------------
+ Colors and notes
+ top gradient 013766
+ end gradient D3CDD4
+ ---------------------------------------------------*/
+ 
+ 
+/* ----------------------------------------------
+   HTML ELEMENTS
+------------------------------------------------- */ 
+
+/* Top Elements */
+* { margin: 0; padding: 0; outline: 0 }
+
+body {  
+	background-color: #013766;
+}
+
+/* links */
+a, a:visited {  
+}
+a:hover {
+}
+
+/* headers */
+h1, h2, h3 {  
+}
+h1 {             
+}
+h2 {
+}
+h3 {  
+}
+
+/* Paragraph */
+p { }
+
+/* Lists */
+ul, ol {       
+}
+ul { }
+
+dl { }
+
+dt {
+}
+dd {
+}
+ no-repeat 15px 15px;
+}
+
+/* start - table */
+table {
+        border-collapse: collapse;
+        margin: 15px 10px;              
+}
+th {
+        height: 38px;
+        padding-left: 12px;
+        padding-right: 12px;
+        color: #fff;
+        text-align: left;
+        background: #ADD163;    
+        border-width: 1px;
+        border-style: solid;
+        border-color: #C4DE8F #93C138 #93C138 #C4DE8F;  
+}
+tr {
+        height: 34px;
+        background: #fff;
+}
+td {
+        padding-left: 11px;
+        padding-right: 11px;
+        border: 1px solid #E7F0CC;      
+}       
+/* end - table */
